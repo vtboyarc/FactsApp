@@ -100,7 +100,7 @@ public class FactBook {
 
     public String getFact() {
 
-        
+
 
 
     String fact = "";

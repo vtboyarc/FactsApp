@@ -1,0 +1,1 @@
+First android app I've made, a simple fun facts app, background color and button text color will randomly change with each new fact.
