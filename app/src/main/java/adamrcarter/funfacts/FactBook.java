@@ -9,6 +9,7 @@ public class FactBook {
 
     public String[] mFacts = {
 
+            "",
             "Ants stretch when they wake up in the morning.",
             "Ostriches can run faster than horses.",
             "Olympic gold medals are actually made mostly of silver.",
@@ -95,6 +96,26 @@ public class FactBook {
             "We live about 80 milliseconds in the past because that's how long it takes our brains to process information.",
             "Napping for just 6 minutes can help improve your memory.",
             "Dogs tilt their heads when something piques their interest and they want to hear better.",
+            "Cleaning can help with depression.",
+            "Creative-type people are more inclined to sleep on their left side.",
+            "Instead of saying you have to do something, tell yourself that you get to do it and you'll feel more empowered.",
+            "Pumping your fists and shouting, \"Yeah!\" when you first get woken up by the alarm will help you get out of bed faster.",
+            "In a group setting, people tend to automatically look at the person they feel the closest to when a group laughs.",
+            "If you refer to people by their names (instead of he/she), it establishes a sense of trust and friendship.",
+            "Asking for small favors from people can make you more likable.",
+            "If you act happy and excited when you first meet people, they will act the same way toward you.",
+            "If you're feeling nervous, start chewing gum, your brain will reason that you're not in danger because you would not be eating if you were.",
+            "If you place a mirror facing angry customers, they tend to act more rational.",
+            "Research concludes doing things that scare you will make you happier.",
+            "A new study has been released that theoretically proves the possibility of time travel.",
+            "Studies have found that sporting the latest technology makes you look like more of a leader.",
+            "Eldest sisters tend to be the most ambitious and successful.",
+            "The Aztecs killed about 20,000 people every year to please the gods.",
+            "Blood from a younger person may be able to heal older brains from diseases like Alzheimer's.",
+            "Cuddling releases oxytocin – A chemical that can heal wounds and relieve pain.",
+            "About 15,000 new animal species are found every year.",
+            "The structure of your brain changes every time you learn something new.",
+
 
     };
 
