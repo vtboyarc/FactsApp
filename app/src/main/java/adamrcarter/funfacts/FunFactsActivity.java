@@ -2,6 +2,7 @@ package adamrcarter.funfacts;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.text.method.ScrollingMovementMethod;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -21,6 +22,7 @@ public class FunFactsActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fun_facts);
 
+
         // Declare our view variables and assigned them the views from the layout file
         final TextView factLabel = (TextView) findViewById(R.id.factTextView);
         final Button showFactButton = (Button) findViewById(R.id.showFactButton);
@@ -34,6 +36,7 @@ public class FunFactsActivity extends Activity {
 
                 // Update the label with our dynamic fact
                 factLabel.setText(fact);
+                factLabel.setMovementMethod(new ScrollingMovementMethod());
 
                 int color = mColorWheel.getColor();
                 relativeLayout.setBackgroundColor(color);
