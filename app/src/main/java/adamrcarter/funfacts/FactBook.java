@@ -453,8 +453,6 @@ public class FactBook {
     public String getFact() {
 
 
-
-
     String fact = "";
 
     // Randomly select a fact
